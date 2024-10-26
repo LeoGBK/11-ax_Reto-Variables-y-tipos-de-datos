@@ -5,3 +5,4 @@ console.log("¡Hola Mundo! Soy", nombre);
 console.log("Mi nombre en mayúsculas es:", nombre.toUpperCase());
 console.log("Mi nombre en minúsculas es:", nombre.toLowerCase());
 console.log("El mensaje de", saludo, "tiene", saludo.length, "caracteres.");
+console.log("El tercer número del array con los valores", array, "es:", array[2]);
