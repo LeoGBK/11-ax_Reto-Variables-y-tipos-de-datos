@@ -11,4 +11,4 @@ console.log("El mensaje de", saludo, "tiene", saludo.length, "caracteres.");
 console.log("El tercer número del array con los valores", array, "es:", array[2]);
 array.push(6);
 console.log("Se añade el número que sigue al final del arreglo y es:", array[array.length - 1]);
-console.log("Se encontró el patrón 'lluvia' en el texto 'La lluvia en Sevilla es una maravilla', por lo que el resultado es:", encontrado);
+console.log("Se encontró el patrón 'lluvia' en el texto 'La lluvia en Sevilla es una maravilla', por lo que el resultado es:", encontrado[0]);
